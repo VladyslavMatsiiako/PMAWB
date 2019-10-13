@@ -1,4 +1,6 @@
-<html> 
+<html>
+  <head><SCRIPT SRC='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></SCRIPT>
+    <SCRIPT>MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}})</SCRIPT> </head>
   <h1> Placement-of-Multiple-Advertisements-on-a-Web-Banner </h1>
 
 <h2> Instances of Experiment 1. Part 2 </h2>
