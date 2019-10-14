@@ -9,7 +9,7 @@
 <h2> Instances of Experiment 2 </h2>
   <p> The same instances are given both in MATLAB and .txt files. </p>
   <p> The instances are of type A<b><i>i</i></b><i>sim</i><b>j</b> where i is the number of the banner for which the instances are made and j is the number of the simulation. </p>
-  <p> The characteristics of instances are given in the following order: id, max price per pixel, width, height, totalsize, shape, proportionality, and total maximum price. </p>
+  <p> The characteristics of adds in the instances are given in the following order: id, max price per pixel, width, height, totalsize, shape, proportionality, and total maximum price. </p>
   <p> Here, shape is given as width divided by height, proportionality as abs(log(shape)), and total maximum price as the area times the maximum price per pixel. </p>
     
   
