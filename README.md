@@ -10,7 +10,7 @@
   <p> The same instances are given both in MATLAB and .txt files. </p>
   <p> The instances are of type A<b><i>i</i></b><i>sim</i><b>j</b> where i is the number of the banner for which the instances are made and j is the number of the simulation. </p>
   <p> The characteristics of instances are given in the following order: id, max price per pixel, width, height, totalsize, shape, proportionality, and total maximum price. </p>
-  <p> Here, shape is given as divided by height, proportionality as abs(log(shape)), and total maximum price as area the maximum price per pixel. </p>
+  <p> Here, shape is given as width divided by height, proportionality as abs(log(shape)), and total maximum price as area the maximum price per pixel. </p>
     
   
 </html>
